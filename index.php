@@ -12,5 +12,9 @@
         Nihil optio fuga ab deleniti 
         quasi magnam nobis repellat dicta assumenda sequi?
     </p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 </html>
