@@ -7,5 +7,10 @@
 </head>
 <body>
     <h1>Haloo Duniaa!</h1>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Nihil optio fuga ab deleniti 
+        quasi magnam nobis repellat dicta assumenda sequi?
+    </p>
 </body>
 </html>
